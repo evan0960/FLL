@@ -1,3 +1,3 @@
-# FLL
+# FLL Cargo Connect Competition Code
 
-# Copywrite 2021 Eagle Bots All Rights Reserved
+This is the code scraps for the Cargo Connect Spike competition
